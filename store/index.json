@@ -107,12 +107,12 @@
 		}
 	},
 	{
-		"name": "Minecraft",
+		"name": "google",
 		"icon": "https://raw.githubusercontent.com/win11react/store/main/store/img/minecraft.png",
-		"type": "game",
+		"type": "Website",
 		"data": {
 			"type": "IFrame",
-			"url": "https://classic.minecraft.net",
+			"url": "https://google.com",
 			"gallery": [
 				"https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
 				"https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
@@ -123,12 +123,12 @@
 		}
 	},
 	{
-		"name": "Candy Crush",
+		"name": "Hacker",
 		"icon": "https://cdn2.downdetector.com/static/uploads/logo/mzl.ehlcwpta.png",
 		"type": "game",
 		"data": {
 			"type": "IFrame",
-			"url": "https://svelte-candy-crush.vercel.app/",
+			"url": "https://pranx.com",
 			"gallery": [
 				"https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2014_04/133241/candy-crush-saga-screenshot-01.jpg",
 				"https://www.mobygames.com/images/shots/l/628983-candy-crush-saga-android-screenshot-the-chocolate-candy-covered.jpg",
